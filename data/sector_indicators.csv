@@ -1,0 +1,7 @@
+sector,adoption_index,growth_potential,investment_index,talent_availability,trust_index,regulatory_risk,primary_use_case,evidence_type
+Manufacturing,78,88,86,72,74,35,Predictive maintenance and quality control,scenario
+Healthcare,62,84,73,59,61,88,Diagnostic and operational decision support,scenario
+Logistics,70,86,76,67,70,48,Route and energy optimisation,scenario
+Financial Services,76,79,83,78,60,82,Fraud detection and risk analytics,scenario
+Public Services,48,68,65,52,55,75,Document processing and citizen services,scenario
+
